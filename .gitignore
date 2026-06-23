@@ -1,0 +1,44 @@
+# AI / Claude 도구
+AGENTS.md
+CLAUDE.md
+.claude/
+
+# 환경변수
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+
+# 데이터베이스
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+.next/
+out/
+build/
+
+# macOS
+.DS_Store
+
+# 에디터
+.vscode/
+.idea/
+
+# 로그
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Vercel
+.vercel
